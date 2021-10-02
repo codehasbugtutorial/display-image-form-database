@@ -1,1 +1,1 @@
-# display-image-form-database
+# Store, retrieve, and update image from database in PHP
